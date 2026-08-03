@@ -1,3 +1,3 @@
 # Python-
-Try to code
+Linear Regression model
  
